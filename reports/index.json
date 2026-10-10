@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.1"
+    "version": "3.22.2"
   },
   "entries": [
+    {
+      "id": "20261009-211942-jzkq",
+      "title": "R Ó N Î N",
+      "commanders": [
+        "R Ó N Î N"
+      ],
+      "guild": {
+        "id": "378A1947-BBB4-EF11-8465-02315AB41281",
+        "name": "Quagganic Order Of The Sacred",
+        "tag": "YEET"
+      },
+      "dateStart": "2026-10-10T02:19:42.000Z",
+      "dateEnd": "2026-10-10T03:20:07.991Z",
+      "dateLabel": "10/9/2026, 9:19:42 PM - 10/9/2026, 10:20:07 PM",
+      "url": "https://mayevergreen.github.io/DPSLOGS/?report=20261009-211942-jzkq",
+      "publishedBy": "MayEvergreen",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 25,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 13
+      }
+    },
     {
       "id": "20261008-172114-u2ur",
       "title": "May Evergreen",
