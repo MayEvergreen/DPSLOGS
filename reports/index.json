@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261015-173709-9m2q",
+      "title": "May Evergreen",
+      "commanders": [
+        "May Evergreen"
+      ],
+      "guild": {
+        "id": "378A1947-BBB4-EF11-8465-02315AB41281",
+        "name": "Quagganic Order Of The Sacred",
+        "tag": "YEET"
+      },
+      "dateStart": "2026-10-15T22:37:09.000Z",
+      "dateEnd": "2026-10-15T23:31:30.323Z",
+      "dateLabel": "10/15/2026, 5:37:09 PM - 10/15/2026, 6:31:30 PM",
+      "url": "https://mayevergreen.github.io/DPSLOGS/?report=20261015-173709-9m2q",
+      "publishedBy": "MayEvergreen",
+      "summary": {
+        "borderlandsPct": 0.5555555555555556,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20261012-173349-zt7l",
       "title": "Rath Mailing",
       "commanders": [
