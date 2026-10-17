@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20261016-211751-1o0u",
+      "title": "R Ó N Î N, Rath Amrada",
+      "commanders": [
+        "R Ó N Î N",
+        "Rath Amrada"
+      ],
+      "guild": {
+        "id": "8F4FBBD0-E8BE-4CA2-80A4-9ADF1BF6071D",
+        "name": "Ken Sei",
+        "tag": "RYU"
+      },
+      "dateStart": "2026-10-17T02:17:51.000Z",
+      "dateEnd": "2026-10-17T03:27:18.193Z",
+      "dateLabel": "10/16/2026, 9:17:51 PM - 10/16/2026, 10:27:18 PM",
+      "url": "https://mayevergreen.github.io/DPSLOGS/?report=20261016-211751-1o0u",
+      "publishedBy": "MayEvergreen",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 26,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20261016-170225-anna",
       "title": "Kara Jorgensdottir",
       "commanders": [
