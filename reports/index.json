@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261030-211249-z9hh",
+      "title": "R Ó N Î N",
+      "commanders": [
+        "R Ó N Î N"
+      ],
+      "guild": {
+        "id": "8F4FBBD0-E8BE-4CA2-80A4-9ADF1BF6071D",
+        "name": "Ken Sei",
+        "tag": "RYU"
+      },
+      "dateStart": "2026-10-31T02:12:49.000Z",
+      "dateEnd": "2026-10-31T03:09:24.013Z",
+      "dateLabel": "10/30/2026, 9:12:49 PM - 10/30/2026, 10:09:24 PM",
+      "url": "https://mayevergreen.github.io/DPSLOGS/?report=20261030-211249-z9hh",
+      "publishedBy": "MayEvergreen",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 32,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20261027-173359-7mwx",
       "title": "R Ó N Î N",
       "commanders": [
