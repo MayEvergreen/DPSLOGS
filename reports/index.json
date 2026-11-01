@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261101-094556-8e2w",
+      "title": "May Evergreen",
+      "commanders": [
+        "May Evergreen"
+      ],
+      "guild": {
+        "id": "378A1947-BBB4-EF11-8465-02315AB41281",
+        "name": "Quagganic Order Of The Sacred",
+        "tag": "YEET"
+      },
+      "dateStart": "2026-11-01T15:45:56.000Z",
+      "dateEnd": "2026-11-01T16:14:45.807Z",
+      "dateLabel": "11/1/2026, 9:45:56 AM - 11/1/2026, 10:14:45 AM",
+      "url": "https://mayevergreen.github.io/DPSLOGS/?report=20261101-094556-8e2w",
+      "publishedBy": "MayEvergreen",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 60,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20261031-100043-9s5m",
       "title": "R Ó N Î N",
       "commanders": [
