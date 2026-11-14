@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.12"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261113-201311-5eqt",
+      "title": "R Ó N Î N",
+      "commanders": [
+        "R Ó N Î N"
+      ],
+      "guild": {
+        "id": "378A1947-BBB4-EF11-8465-02315AB41281",
+        "name": "Quagganic Order Of The Sacred",
+        "tag": "YEET"
+      },
+      "dateStart": "2026-11-14T02:13:11.000Z",
+      "dateEnd": "2026-11-14T02:52:49.777Z",
+      "dateLabel": "11/13/2026, 8:13:11 PM - 11/13/2026, 8:52:49 PM",
+      "url": "https://mayevergreen.github.io/DPSLOGS/?report=20261113-201311-5eqt",
+      "publishedBy": "MayEvergreen",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 32,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 24
+      }
+    },
     {
       "id": "20261109-173301-tmow",
       "title": "Rath Amrada, Rath Mindrender",
