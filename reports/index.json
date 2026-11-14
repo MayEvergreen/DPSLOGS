@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261114-101057-8xye",
+      "title": "R Ó N Î N",
+      "commanders": [
+        "R Ó N Î N"
+      ],
+      "guild": {
+        "id": "8F4FBBD0-E8BE-4CA2-80A4-9ADF1BF6071D",
+        "name": "Ken Sei",
+        "tag": "RYU"
+      },
+      "dateStart": "2026-11-14T16:10:57.000Z",
+      "dateEnd": "2026-11-14T16:45:53.339Z",
+      "dateLabel": "11/14/2026, 10:10:57 AM - 11/14/2026, 10:45:53 AM",
+      "url": "https://mayevergreen.github.io/DPSLOGS/?report=20261114-101057-8xye",
+      "publishedBy": "MayEvergreen",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 34,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 7
+      }
+    },
+    {
       "id": "20261113-201311-5eqt",
       "title": "R Ó N Î N",
       "commanders": [
