@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261115-103352-c6jt",
+      "title": "Chaste Cuddles",
+      "commanders": [
+        "Chaste Cuddles"
+      ],
+      "guild": {
+        "id": "378A1947-BBB4-EF11-8465-02315AB41281",
+        "name": "Quagganic Order Of The Sacred",
+        "tag": "YEET"
+      },
+      "dateStart": "2026-11-15T16:33:52.000Z",
+      "dateEnd": "2026-11-15T17:32:35.990Z",
+      "dateLabel": "11/15/2026, 10:33:52 AM - 11/15/2026, 11:32:35 AM",
+      "url": "https://mayevergreen.github.io/DPSLOGS/?report=20261115-103352-c6jt",
+      "publishedBy": "MayEvergreen",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20261114-101057-8xye",
       "title": "R Ó N Î N",
       "commanders": [
